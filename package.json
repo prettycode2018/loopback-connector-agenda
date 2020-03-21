@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "agenda": "^1.0.0",
+    "agenda": "^3.0.0",
     "bluebird": "^3.5.0",
     "debug": "^3.0.1"
   },
